@@ -1,0 +1,8 @@
+{
+    "app":{
+        "bootstrap":false,
+        "paper":false,
+        "materialize":false,
+        "ajax":false
+    }
+}
